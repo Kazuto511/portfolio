@@ -1,0 +1,66 @@
+.header {
+  width: auto;
+  height: 300px;
+}
+.header-top {
+  width: auto;
+  height: 250px;
+  background-image: url(school.jpg);
+  background-size: cover;
+}
+.header-bottom {
+  width: auto;
+  height: 50px;
+  text-align: center;
+  font-size: 30px;
+}
+.introduce {
+  width: auto;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  text-align: right;
+}
+.introduce-view {
+  width: 20%;
+  height: 200px;
+  background-image: url(me.jpg);
+  background-size: cover;
+}
+.introduce-content {
+  width: 50%;
+  height: 200px;
+  padding: 50px;
+}
+.content-top {
+  font-size: 21px;
+  background: linear-gradient(transparent 80%, #99ccff 0%);
+}
+.content-second {
+  font-size: 15px;
+  color: navy;
+}
+.content {
+  font-size: 11px;
+}
+.box1 {
+  width: 50%;
+  height: 300px;
+  padding-right: 15%;
+  padding-left: 35%;
+  text-align: right;
+}
+.box2 {
+  width: 50%;
+  height: 400px;
+  padding-right: 15%;
+  padding-left: 35%;
+  text-align: right;
+}
+.box3 {
+  width: 50%;
+  height: 300px;
+  padding-right: 15%;
+  padding-left: 35%;
+  text-align: right;
+}
